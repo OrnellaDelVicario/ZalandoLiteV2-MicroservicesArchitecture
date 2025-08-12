@@ -58,9 +58,9 @@ Each microservice component is independently maintained within its own dedicated
 * **Product Service**: [https://github.com/OrnellaDelVicario/zalando-lite-v2-product-service](https://github.com/OrnellaDelVicario/zalando-lite-v2-product-service)
 * **Inventory Service**: [https://github.com/OrnellaDelVicario/zalando-lite-v2-inventory-service](https://github.com/OrnellaDelVicario/zalando-lite-v2-inventory-service)
 * **Customer Service**: [https://github.com/OrnellaDelVicario/zalando-lite-v2-customer-service](https://github.com/OrnellaDelVicario/zalando-lite-v2-customer-service)
-* **Order Service**: [Link to Order Service Repo - Placeholder]
-* **Discount Service**: [Link to Discount Service Repo - Placeholder]
-* **Review Service**: [Link to Review Service Repo - Placeholder]
+* **Order Service**: [Link to Order Service Repo - Work in Progress]
+* **Discount Service**: [Link to Discount Service Repo - Work in Progress]
+* **Review Service**: [Link to Review Service Repo - Work in Progress]
 
 
 
