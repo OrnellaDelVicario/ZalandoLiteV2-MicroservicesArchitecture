@@ -1,0 +1,12 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/OrnellaDelVicario/zalando-lite-v2-auth-service
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/OrnellaDelVicario/zalando-lite-v2-product-service
+[submodule "inventory-service"]
+	path = inventory-service
+	url = https://github.com/OrnellaDelVicario/zalando-lite-v2-inventory-service
+[submodule "customer-service"]
+	path = customer-service
+	url = https://github.com/OrnellaDelVicario/zalando-lite-v2-customer-service

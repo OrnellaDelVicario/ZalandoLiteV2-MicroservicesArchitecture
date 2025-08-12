@@ -37,3 +37,32 @@ The foundational design of this project adheres to the microservices paradigm, w
 ## 📂 Project Structure
 
 The project's organizational schema adopts a modular layout, with each distinct microservice residing within its own dedicated subdirectory.# ZalandoLiteV2-MicroservicesArchitecture
+
+ZalandoLiteV2/
+├── auth-service/
+├── product-service/
+├── inventory-service/
+├── customer-service/
+├── order-service/
+├── discount-service/
+├── review-service/
+└── README.md
+
+---
+
+## 🔗 Repository Information
+
+Each microservice component is independently maintained within its own dedicated GitHub repository.
+
+* **Auth Service**: [https://github.com/OrnellaDelVicario/zalando-lite-v2-auth-service](https://github.com/OrnellaDelVicario/zalando-lite-v2-auth-service)
+* **Product Service**: [https://github.com/OrnellaDelVicario/zalando-lite-v2-product-service](https://github.com/OrnellaDelVicario/zalando-lite-v2-product-service)
+* **Inventory Service**: [https://github.com/OrnellaDelVicario/zalando-lite-v2-inventory-service](https://github.com/OrnellaDelVicario/zalando-lite-v2-inventory-service)
+* **Customer Service**: [https://github.com/OrnellaDelVicario/zalando-lite-v2-customer-service](https://github.com/OrnellaDelVicario/zalando-lite-v2-customer-service)
+* **Order Service**: [Link to Order Service Repo - Placeholder]
+* **Discount Service**: [Link to Discount Service Repo - Placeholder]
+* **Review Service**: [Link to Review Service Repo - Placeholder]
+
+
+
+
+
